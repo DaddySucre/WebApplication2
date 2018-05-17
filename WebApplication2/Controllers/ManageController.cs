@@ -34,8 +34,7 @@ namespace WebApplication2.Controllers
             private set 
             { 
                 _signInManager = value;
-                _signInManager = value;
-                _signInManager = value;
+                
             }
         }
 
