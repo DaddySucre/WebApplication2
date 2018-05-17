@@ -23,10 +23,6 @@ namespace WebApplication2.Controllers
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
         {
             UserManager = userManager;
-            SignInManager = signInManager;
-            SignInManager = signInManager;
-            SignInManager = signInManager;
-            SignInManager = signInManager;
         }
 
         public ApplicationSignInManager SignInManager
